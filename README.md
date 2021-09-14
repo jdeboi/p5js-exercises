@@ -8,3 +8,6 @@
   
 ### Conditionals
 * [Bieber](conditionals/bieber/index.html)
+
+### Functions
+* [5K race](functions/race/index.html)
