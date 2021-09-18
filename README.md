@@ -12,3 +12,4 @@
 ### Functions
 * [5K race](functions/race/index.html)
 * [thermometer](functions/thermometer/index.html)
+* [plant](functions/plant/index.html)
