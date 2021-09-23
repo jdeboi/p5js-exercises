@@ -15,3 +15,4 @@
 * [thermometer](functions/thermometer/index.html)
 * [plant](functions/plant/index.html)
 * [Boeing 747](functions/barrels/index.html)
+* [fire marshal dorm occupancy](functions/occupancy/index.html)
