@@ -5,6 +5,7 @@ function getWeatherData() {
     let bigTemps = [];
     let x = 0;
     let xoff = .1;
+    noiseSeed(0);
     for (let i = 0; i < temps.length; i++) {
 
         for (let j = 0; j < 30; j++) {
