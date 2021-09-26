@@ -18,4 +18,5 @@
 * [fire marshal dorm occupancy](functions/occupancy/index.html)
 
 ### Arrays
+* [family heights](arrays/familyHeights/index.html)
 * [Temperature Visualizer](arrays/tempBar/index.html)
