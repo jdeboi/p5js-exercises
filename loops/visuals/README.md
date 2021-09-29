@@ -1,0 +1,15 @@
+# For loop exercises
+
+![blocks](assets/alternating_blocks.png)
+![ellipse](assets/alternating_ellipse.png)
+![diagonal rainbow](assets/diagonal_rainbow.png)
+![flag](assets/flag.png)
+![gradient diagonal](assets/gradient_diagonal.png)
+![gradient squares](assets/gradient_squares.png)
+![lines](assets/lines.png)
+![pyramid](assets/pyramid.png)
+![rainbow](assets/rain_grad.png)
+![rainbow grid](assets/rainbowGrid.png)
+![many squares](assets/manysquares.png)
+![circle gradient](assets/circlegrad.png)
+![target](assets/target.png)

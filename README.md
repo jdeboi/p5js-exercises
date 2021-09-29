@@ -17,6 +17,11 @@
 * [Boeing 747](functions/barrels/index.html)
 * [fire marshal dorm occupancy](functions/occupancy/index.html)
 
+### Loops
+* [Visuals](loops/visuals/README.md)
+
 ### Arrays
 * [family heights](arrays/familyHeights/index.html)
+* [grade heatmap](arrays/heatmap/index.html)
 * [Temperature Visualizer](arrays/tempBar/index.html)
+
