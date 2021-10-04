@@ -26,3 +26,6 @@
 * [grade heatmap](arrays/heatmap/index.html)
 * [Temperature Visualizer](arrays/tempBar/index.html)
 
+### 6. Objects
+* [fish tank](objects/fish/index.html)
+
