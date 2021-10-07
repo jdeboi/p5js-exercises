@@ -1,6 +1,9 @@
 # p5js-exercises
 
 ### 1. Variables
+* [lines cross](variables/linescross/index.html)
+* [checkers](variables/checkers/index.html)
+* [nyan](variables/nyan/index.html)
 * [crosshairs](variables/ellipses/index.html)
 * [sliding triangle](variables/slidingTri/index.html)
 * [sliding rectangle](variables/slidingRect/index.html)
