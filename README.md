@@ -28,6 +28,7 @@
 * [family heights](arrays/familyHeights/index.html)
 * [grade heatmap](arrays/heatmap/index.html)
 * [Temperature Visualizer](arrays/tempBar/index.html)
+* [theater seats](arrays/seats/index.html)
 
 ### 6. Objects
 * [fish tank](objects/fish/index.html)
