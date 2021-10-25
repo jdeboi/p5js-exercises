@@ -22,6 +22,7 @@
 * [circle button](conditionals/circle_button/index.html)
 * [up down left right](conditionals/updown/index.html)
 * [click me](conditionals/clickMe/index.html)
+* [rock, paper, scissors](conditionals/RockPaperScissors/index.html)
 
 ### 4. Loops
 * [Visuals](loops/visuals/README.md)
