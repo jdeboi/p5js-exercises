@@ -24,6 +24,7 @@
 * [click me](conditionals/clickMe/index.html)
 * [rock, paper, scissors](conditionals/rockPaperScissors/index.html)
 * [thirds](conditionals/middlethird/index.html)
+* [go vote!](conditionals/vote/index.html)
 
 ### 4. Loops
 * [Visuals](loops/visuals/README.md)
