@@ -25,6 +25,7 @@
 * [rock, paper, scissors](conditionals/rockPaperScissors/index.html)
 * [thirds](conditionals/middlethird/index.html)
 * [go vote!](conditionals/vote/index.html)
+* [quadrants](conditionals/quadrants/index.html)
 
 ### 4. Loops
 * [Visuals](loops/visuals/README.md)
