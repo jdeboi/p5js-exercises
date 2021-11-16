@@ -38,7 +38,7 @@
 
 ### 6. Objects
 * [fish tank](objects/fish/index.html)
-* [watches](objects/watches/index.html)
 
 ### 7. OOP
 * [fishies](oop/fishies/index.html)
+* [watches](oop/watches/index.html)
