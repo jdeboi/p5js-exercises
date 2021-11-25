@@ -16,7 +16,7 @@ function setup() {
     fill('white');
     rect(0, mouseY/2, cw1, mouseY/2)
     fill('blue');
-    rect(0, mouseY, cw1, height-mouseY/2)
+    rect(0, mouseY, cw1, height-mouseY)
   
     fill('white');
     rect(mouseX, mouseY, cw3, height-mouseY);
