@@ -6,7 +6,7 @@ function setup() {
 }
 
 function draw() {
-  background(0, 0, 255, 5);
+  background(0, 0, 0, 5);
   if (mouseIsPressed) {
     let mouseSpeed = dist(mouseX, mouseY, pmouseX, pmouseY)*2;
  
