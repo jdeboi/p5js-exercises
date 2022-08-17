@@ -1,8 +1,6 @@
 # Instructions  
 
-We are going to create interactive sketches inspired by the geometric forms of Piet Mondrian.  
-
-You can recreate [this example](https://jdeboi.com/p5js-exercises/arts/mondrian/index.html) or make your own (unique) sketch. Your shapes should: 
+We are going to create interactive sketches inspired by the geometric forms of Piet Mondrian. You can recreate [this example](https://jdeboi.com/p5js-exercises/arts/mondrian/index.html) or make your own (unique) sketch. Your shapes should: 
 
 * respond to the mouse
 * maintain geometric relationships
@@ -10,7 +8,3 @@ You can recreate [this example](https://jdeboi.com/p5js-exercises/arts/mondrian/
  mouseY, width, height
 
 ![mondrian](./assets/mondrian/mond.png)
-
-![mondrian](./assets/mondrian/mondrian.jpeg)
-
-![mondrian](./assets/mondrian/mondrian2.jpeg)
