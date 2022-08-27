@@ -1,6 +1,6 @@
 # Instructions  
 
-**HARD GEOMETRY** - Here's what we're trying to make. *NOTICE* that the gradient goes from left to right, not radially from the center (which is a much easier problem to solve).
+Here's what we're trying to make. **NOTICE** that the gradient goes from left to right, not radially from the center (which is a much easier problem to solve).
 
 ![circle grad](assets/circle_grad.png)
 
