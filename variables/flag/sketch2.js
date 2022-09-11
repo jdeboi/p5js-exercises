@@ -8,13 +8,20 @@ function setup() {
 }
 
 function draw() {
-  background(255);
-  let w = mouseX - x;
-  let h = w * 2 / 3;
+  // background(255);
+  // let w = mouseX - x;
+  // let h = w * 2 / 3;
 
   if (mouseIsPressed) {
     h = mouseY - y;
   }
+
+   x = random(width);
+   y = random(height);
+
+  w = random(10, 200);
+  h = 2/3*w;
+
   // flag code
   fill('blue');
   rect(x, y, w / 3, h);
