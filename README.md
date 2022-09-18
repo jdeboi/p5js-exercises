@@ -19,6 +19,7 @@
 
 ### 3. Conditionals
 * [Bieber](conditionals/bieber/index.html)
+* [dvd](conditionals/dvd/index.html)
 * [circle button](conditionals/circle_button/index.html)
 * [up down left right](conditionals/updown/index.html)
 * [click me](conditionals/clickMe/index.html)
