@@ -2,6 +2,7 @@
 
 ### 1. Variables
 * [lines cross](variables/linescross/index.html)
+* [moving lines](variables/cross2/index.html)
 * [checkers](variables/checkers/index.html)
 * [nyan](variables/nyan/index.html)
 * [crosshairs](variables/ellipses/index.html)
