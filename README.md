@@ -9,6 +9,7 @@
 * [sliding triangle](variables/slidingTri/index.html)
 * [sliding rectangle](variables/slidingRect/index.html)
 * [moving car](variables/car/index.html)
+* [dancing snowman](variables/snowman/index.html)
   
 ### 2. Functions
 * [5K race](functions/race/index.html)
