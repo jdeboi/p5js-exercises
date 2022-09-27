@@ -12,6 +12,7 @@
 * [dancing snowman](variables/snowman/index.html)
 * [yoyo](variables/yoyo/index.html)
 * [yoyo hand moving](variables/yoyo/yoyo2.html)
+* [horse](variables/horse/index.html)
   
 ### 2. Functions
 * [5K race](functions/race/index.html)
