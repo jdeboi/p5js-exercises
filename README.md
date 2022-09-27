@@ -10,6 +10,8 @@
 * [sliding rectangle](variables/slidingRect/index.html)
 * [moving car](variables/car/index.html)
 * [dancing snowman](variables/snowman/index.html)
+* [yoyo](variables/yoyo/index.html)
+* [yoyo hand moving](variables/yoyo/yoyo2.html)
   
 ### 2. Functions
 * [5K race](functions/race/index.html)
