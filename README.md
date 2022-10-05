@@ -21,6 +21,8 @@
 * [Boeing 747](functions/barrels/index.html)
 * [fire marshal dorm occupancy](functions/occupancy/index.html)
 * [cruise ship](functions/cruise/index.html)
+* [blinking eyes](functions/eyes/index.html)
+* [sunrise sunset](functions/sunrise/index.html)
 
 ### 3. Conditionals
 * [Bieber](conditionals/bieber/index.html)
