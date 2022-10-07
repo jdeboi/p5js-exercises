@@ -28,6 +28,7 @@ function eye(x, y, eyeColor) {
     fill(0);
     ellipse(x, y, 10);
 
+    // blink
     fill(255);
     stroke(0);
     ellipse(x, y, 100, 25 + 25 * sin(millis() / 100))
