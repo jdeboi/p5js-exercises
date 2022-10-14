@@ -7,11 +7,11 @@ function draw() {
   background(0, 10);
   // bounceLines();
   // bounceGrid();
-  // sineEllipseWave();
+  // sinEllipseWave();
   sinLineWave();
 }
 
-function sineEllipseWave() {
+function sinEllipseWave() {
   let amplitude = 150;
   let period = millis() / 1000;
   for (let x = 0; x < width; x += 10) {
@@ -24,7 +24,7 @@ function sineEllipseWave() {
   }
 }
 
-function sineLineWave() {
+function sinLineWave() {
   let h = 100;
   let y = height / 2 - h / 2;
   let amp = h;
