@@ -24,7 +24,7 @@ function sineEllipseWave() {
   }
 }
 
-function sinLineWave() {
+function sineLineWave() {
   let h = 100;
   let y = height / 2 - h / 2;
   let amp = h;
